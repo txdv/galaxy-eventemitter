@@ -1,0 +1,13 @@
+{
+  "name" : "galaxy-eventemitter",
+  "description" : "A galaxy wrapper around the node EventEmitter.",
+  "version" : "0.1.0",
+  "author" : "Andrius Bentkus <andrius.bentkus@gmail.com>",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/txdv/galaxy-eventemitter"
+  },
+  "engines" : ["node >= 0.11"],
+  "main" : "main",
+  "files" : [ "main.js" ]
+}

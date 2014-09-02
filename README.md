@@ -1,6 +1,6 @@
 # galaxy-eventemitter
 
-This is a a galaxy wrapper for the EventEmitter of node.js.
+This is a [galaxy](https://github.com/bjouhier/galaxy) wrapper for the node EventEmitter.
 
 License
 =======
